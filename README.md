@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Install [.NET 6.0](https://dotnet.microsoft.com/en-us/download).;
+Install [.NET 6.0](https://dotnet.microsoft.com/en-us/download).
 
 
 Install the Alpaca.Markets package.
